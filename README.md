@@ -1,6 +1,9 @@
 # Electric Field Simulator and Art Creator
 I'm excited to announce my electric field simulator and "electric field art" creator. This project started when I learned about the electric field in my Physics class and wanted to simulate it in Elm. The results are totally beyond my conception of electric fields from the textbook. Here are some pieces I made with this tool:
 
+//codigo de inicializacion: elm-live src/Main.elm --start-page public/index.html --host 0.0.0.0 -- --output=public/elm.js
+
+
 ![horn](./media/horn.png) 
 
 ![layered](./media/layered.png)
